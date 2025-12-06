@@ -1,0 +1,222 @@
+﻿College,Year,Semester,Undergrad SCH,Master's SCH,Doctoral SCH,Spec Prof SCH,Total SCH
+Architecture,2016,Fall,4806,3370,466,0,8642
+Architecture,2016,Spring,4823,3145,434,0,8402
+Architecture,2016,Summer,214,375,111,0,700
+Architecture,2017,Fall,4989,3467,563,0,9019
+Architecture,2017,Spring,4986,2979,611,0,8576
+Architecture,2017,Summer,223,301,148,0,672
+Architecture,2018,Fall,5416,3164,690,0,9270
+Architecture,2018,Spring,5422,2805,708,0,8935
+Architecture,2018,Summer,109,353,100,0,562
+Architecture,2019,Fall,5546,3647,258,0,9451
+Architecture,2019,Spring,4896,2929,258,0,8083
+Architecture,2019,Summer,283,763,45,0,1091
+Architecture,2020,Fall,5065,3371,247,0,8683
+Business,2016,Fall,58678,15603,710,0,74991
+Business,2016,Spring,57672,14803,747,0,73222
+Business,2016,Summer,6656,1952,240,0,8848
+Business,2017,Fall,58320,15537,698,0,74555
+Business,2017,Spring,55304,14657,738,0,70699
+Business,2017,Summer,5609,2035,195,0,7839
+Business,2018,Fall,55945,15002,702,0,71649
+Business,2018,Spring,54352,13889,672,0,68913
+Business,2018,Summer,5016,1716,192,0,6924
+Business,2019,Fall,55128,14693,612,0,70433
+Business,2019,Spring,53141,13813,638,0,67592
+Business,2019,Summer,8145,2259,189,0,10593
+Business,2020,Fall,55298,13260,637,0,69195
+Communication,2016,Fall,36057,2053,1688,270,40068
+Communication,2016,Spring,37968,2227,1585,306,42086
+Communication,2016,Summer,4851,314,269,60,5494
+Communication,2017,Fall,40975,2160,1465,282,44882
+Communication,2017,Spring,40266,2078,1447,312,44103
+Communication,2017,Summer,5455,300,308,60,6123
+Communication,2018,Fall,43976,2216,1359,276,47827
+Communication,2018,Spring,42760,2117,1490,267,46634
+Communication,2018,Summer,5433,262,289,54,6038
+Communication,2019,Fall,42789,2395,1323,279,46786
+Communication,2019,Spring,44008,2388,1275,351,48022
+Communication,2019,Summer,6188,286,268,57,6799
+Communication,2020,Fall,43215,2249,1166,390,47020
+Education,2016,Fall,21782,3387,4792,0,29961
+Education,2016,Spring,23495,3375,4619,0,31489
+Education,2016,Summer,1919,1500,1349,0,4768
+Education,2017,Fall,21990,3997,4268,0,30255
+Education,2017,Spring,22602,3471,4413,0,30486
+Education,2017,Summer,1778,1546,1253,0,4577
+Education,2018,Fall,22592,3655,4217,0,30464
+Education,2018,Spring,24018,2977,4166,0,31161
+Education,2018,Summer,1636,1455,1203,0,4294
+Education,2019,Fall,23662,3329,3886,0,30877
+Education,2019,Spring,24068,2889,3897,0,30854
+Education,2019,Summer,2643,1402,1107,0,5152
+Education,2020,Fall,22845,2979,3755,0,29579
+Engineering,2016,Fall,45827,7468,8525,0,61820
+Engineering,2016,Spring,45797,5379,9263,0,60439
+Engineering,2016,Summer,2133,890,2288,0,5311
+Engineering,2017,Fall,48299,6996,8703,0,63998
+Engineering,2017,Spring,47797,5217,9436,0,62450
+Engineering,2017,Summer,2022,798,2258,0,5078
+Engineering,2018,Fall,49053,7297,8743,0,65093
+Engineering,2018,Spring,48527,5673,9106,0,63306
+Engineering,2018,Summer,1571,760,2156,0,4487
+Engineering,2019,Fall,48676,6964,8744,0,64384
+Engineering,2019,Spring,47927,5621,9445,0,62993
+Engineering,2019,Summer,2791,866,2376,0,6033
+Engineering,2020,Fall,48099,5306,9972,0,63377
+Fine Arts,2016,Fall,25986,2643,1568,0,30197
+Fine Arts,2016,Spring,23016,2485,1579,0,27080
+Fine Arts,2016,Summer,974,111,66,0,1151
+Fine Arts,2017,Fall,27040,2503,1444,0,30987
+Fine Arts,2017,Spring,23166,2377,1502,0,27045
+Fine Arts,2017,Summer,719,73,63,0,855
+Fine Arts,2018,Fall,28946,2377,1415,0,32738
+Fine Arts,2018,Spring,25591,2246,1410,0,29247
+Fine Arts,2018,Summer,1086,79,72,0,1237
+Fine Arts,2019,Fall,28297,2516,1255,0,32068
+Fine Arts,2019,Spring,24430,2295,1193,0,27918
+Fine Arts,2019,Summer,1412,27,84,0,1523
+Fine Arts,2020,Fall,24929,1994,1322,0,28245
+Geosciences,2016,Fall,4953,1137,1337,0,7427
+Geosciences,2016,Spring,5093,802,1395,0,7290
+Geosciences,2016,Summer,529,117,324,0,970
+Geosciences,2017,Fall,4575,775,1238,0,6588
+Geosciences,2017,Spring,5018,652,1256,0,6926
+Geosciences,2017,Summer,265,102,297,0,664
+Geosciences,2018,Fall,4133,674,1129,0,5936
+Geosciences,2018,Spring,5978,723,1054,0,7755
+Geosciences,2018,Summer,191,108,261,0,560
+Geosciences,2019,Fall,4118,675,1013,0,5806
+Geosciences,2019,Spring,5590,615,1071,0,7276
+Geosciences,2019,Summer,554,75,219,0,848
+Geosciences,2020,Fall,4699,753,1087,0,6539
+Information,2016,Fall,1755,1792,231,0,3778
+Information,2016,Spring,2241,1734,254,0,4229
+Information,2016,Summer,279,181,42,0,502
+Information,2017,Fall,2040,2164,204,0,4408
+Information,2017,Spring,1953,2215,178,0,4346
+Information,2017,Summer,354,256,30,0,640
+Information,2018,Fall,1812,2230,172,0,4214
+Information,2018,Spring,1878,2079,163,0,4120
+Information,2018,Summer,333,177,28,0,538
+Information,2019,Fall,1770,1781,189,0,3740
+Information,2019,Spring,1905,1676,144,0,3725
+Information,2019,Summer,174,205,30,0,409
+Information,2020,Fall,752,1473,183,0,2408
+Intercollegial Programs,2016,Fall,1643,574,878,0,3095
+Intercollegial Programs,2016,Spring,1470,360,837,0,2667
+Intercollegial Programs,2016,Summer,12,48,258,0,318
+Intercollegial Programs,2017,Fall,1827,562,812,0,3201
+Intercollegial Programs,2017,Spring,1578,387,950,0,2915
+Intercollegial Programs,2017,Summer,6,70,264,0,340
+Intercollegial Programs,2018,Fall,2515,573,803,0,3891
+Intercollegial Programs,2018,Spring,2190,459,810,0,3459
+Intercollegial Programs,2018,Summer,12,63,233,0,308
+Intercollegial Programs,2019,Fall,2829,702,880,0,4411
+Intercollegial Programs,2019,Spring,2956,459,910,0,4325
+Intercollegial Programs,2019,Summer,159,63,261,0,483
+Intercollegial Programs,2020,Fall,2919,590,971,0,4480
+Law,2016,Fall,0,0,0,13896,13896
+Law,2016,Spring,0,0,0,13398,13398
+Law,2016,Summer,0,0,0,364,364
+Law,2017,Fall,4,0,0,13507,13511
+Law,2017,Spring,7,0,0,13240,13247
+Law,2017,Summer,0,0,0,304,304
+Law,2018,Fall,0,0,0,15347,15347
+Law,2018,Spring,2,0,0,14415,14417
+Law,2018,Summer,0,0,0,301,301
+Law,2019,Fall,0,0,0,14655,14655
+Law,2019,Spring,0,0,0,14066,14066
+Law,2019,Summer,0,0,0,606,606
+Law,2020,Fall,0,0,0,14276,14276
+Liberal Arts,2016,Fall,155809,3241,7492,0,166542
+Liberal Arts,2016,Spring,150202,2997,7476,0,160675
+Liberal Arts,2016,Summer,18623,339,1152,0,20114
+Liberal Arts,2017,Fall,158926,3597,7320,0,169843
+Liberal Arts,2017,Spring,152039,3087,7391,0,162517
+Liberal Arts,2017,Summer,18716,390,1122,0,20228
+Liberal Arts,2018,Fall,156325,3189,7388,0,166902
+Liberal Arts,2018,Spring,152961,2498,7774,0,163233
+Liberal Arts,2018,Summer,15864,288,1177,0,17329
+Liberal Arts,2019,Fall,154013,2812,7493,0,164318
+Liberal Arts,2019,Spring,147461,2530,7538,0,157529
+Liberal Arts,2019,Summer,30785,321,1447,0,32553
+Liberal Arts,2020,Fall,156904,2308,7758,0,166970
+Natural Sciences,2016,Fall,148630,3731,7228,0,159589
+Natural Sciences,2016,Spring,136939,2874,7728,0,147541
+Natural Sciences,2016,Summer,9872,459,1961,0,12292
+Natural Sciences,2017,Fall,150042,3650,6982,0,160674
+Natural Sciences,2017,Spring,136475,2856,7397,0,146728
+Natural Sciences,2017,Summer,9427,481,1814,0,11722
+Natural Sciences,2018,Fall,149971,3912,6873,0,160756
+Natural Sciences,2018,Spring,137284,3059,7409,0,147752
+Natural Sciences,2018,Summer,9252,446,1862,0,11560
+Natural Sciences,2019,Fall,146796,4467,6935,0,158198
+Natural Sciences,2019,Spring,138072,3706,7441,0,149219
+Natural Sciences,2019,Summer,18574,543,1974,0,21091
+Natural Sciences,2020,Fall,151320,3443,7987,0,162750
+Nursing,2016,Fall,4745,2471,335,0,7551
+Nursing,2016,Spring,4781,2133,295,0,7209
+Nursing,2016,Summer,119,726,89,0,934
+Nursing,2017,Fall,4911,2444,283,0,7638
+Nursing,2017,Spring,5054,2273,292,0,7619
+Nursing,2017,Summer,135,788,126,0,1049
+Nursing,2018,Fall,5096,2495,340,0,7931
+Nursing,2018,Spring,5081,2224,372,0,7677
+Nursing,2018,Summer,103,782,107,0,992
+Nursing,2019,Fall,5111,2590,269,0,7970
+Nursing,2019,Spring,5185,2173,251,0,7609
+Nursing,2019,Summer,124,794,131,0,1049
+Nursing,2020,Fall,4991,2508,388,0,7887
+Pharm. D.,2016,Fall,9,174,534,8903,9620
+Pharm. D.,2016,Spring,297,162,564,8335,9358
+Pharm. D.,2016,Summer,174,102,217,1309,1802
+Pharm. D.,2017,Fall,9,178,512,8857,9556
+Pharm. D.,2017,Spring,279,148,563,8281,9271
+Pharm. D.,2017,Summer,231,57,195,1356,1839
+Pharm. D.,2018,Fall,0,172,538,9132,9842
+Pharm. D.,2018,Spring,273,135,584,8529,9521
+Pharm. D.,2018,Summer,222,84,226,1354,1886
+Pharm. D.,2019,Fall,2,261,521,9015,9799
+Pharm. D.,2019,Spring,228,211,560,8652,9651
+Pharm. D.,2019,Summer,375,87,168,1580,2210
+Pharm. D.,2020,Fall,12,220,570,8657,9459
+Public Affairs,2016,Fall,78,2946,242,0,3266
+Public Affairs,2016,Spring,335,2761,276,0,3372
+Public Affairs,2016,Summer,84,337,64,0,485
+Public Affairs,2017,Fall,91,3379,231,0,3701
+Public Affairs,2017,Spring,300,3336,271,0,3907
+Public Affairs,2017,Summer,57,399,96,0,552
+Public Affairs,2018,Fall,101,268,0,0,369
+Public Affairs,2018,Spring,3165,2745,418,0,6328
+Public Affairs,2018,Summer,226,265,69,0,560
+Public Affairs,2019,Fall,79,3166,240,0,3485
+Public Affairs,2019,Spring,189,3099,279,0,3567
+Public Affairs,2019,Summer,0,334,84,0,418
+Public Affairs,2020,Fall,88,3120,289,0,3497
+Social Work,2016,Fall,2277,3432,271,0,5980
+Social Work,2016,Spring,2762,3515,286,0,6563
+Social Work,2016,Summer,225,1122,90,0,1437
+Social Work,2017,Fall,2492,3450,265,0,6207
+Social Work,2017,Spring,2516,3459,272,0,6247
+Social Work,2017,Summer,177,1194,51,0,1422
+Social Work,2018,Fall,2425,3550,190,0,6165
+Social Work,2018,Spring,2752,3583,243,0,6578
+Social Work,2018,Summer,123,1368,69,0,1560
+Social Work,2019,Fall,2442,3527,227,0,6196
+Social Work,2019,Spring,2489,3324,241,0,6054
+Social Work,2019,Summer,306,1446,84,0,1836
+Social Work,2020,Fall,2463,3636,212,0,6311
+Undergraduate Studies,2016,Fall,24381,0,0,0,24381
+Undergraduate Studies,2016,Spring,9836,0,0,0,9836
+Undergraduate Studies,2016,Summer,477,0,0,0,477
+Undergraduate Studies,2017,Fall,19123,0,0,0,19123
+Undergraduate Studies,2017,Spring,13245,0,0,0,13245
+Undergraduate Studies,2017,Summer,495,0,0,0,495
+Undergraduate Studies,2018,Fall,22961,0,0,0,22961
+Undergraduate Studies,2018,Spring,9240,0,0,0,9240
+Undergraduate Studies,2018,Summer,543,0,0,0,543
+Undergraduate Studies,2019,Fall,21746,0,0,0,21746
+Undergraduate Studies,2019,Spring,7964,0,0,0,7964
+Undergraduate Studies,2019,Summer,420,0,0,0,420
+Undergraduate Studies,2020,Fall,21701,0,0,0,21701
